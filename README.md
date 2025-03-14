@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BMGirishKumar
-- 👀 I’m interested in Computer Sciend 
-- 🌱 I’m currently learning 3rd year CSE 
+- 👀 I’m interested in Computer Science 
 
 
 <!---
